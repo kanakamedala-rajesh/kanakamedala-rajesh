@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajesh_542" target="blank"><img src="https://img.shields.io/twitter/follow/rajesh_542?logo=twitter&style=for-the-badge" alt="rajesh_542" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack mono repository development](https://github.com/kanakamedala-rajesh/venkatasudha)
+- 🔭 I’m currently working on [C++ Secure Storage](https://github.com/kanakamedala-rajesh/SecureStorage)
 
 - 🌱 I’m currently learning **NextJs, NestJs, TypeScript, C++, QT, Kotlin**
 
